@@ -1,6 +1,6 @@
 # Use Co-Ordinator-Layout
 In this project I have created stages in which we can create a specific type of Co-Ordinator layout    
-There are 4 ways in which we can use Co Ordinator Layout, And I used each way to create custom behaviour for Floating Action Button.
+There are 4 ways in which we can use Co Ordinator Layout, And I have used each way to create custom behaviour for Floating Action Button.
 > 1. Floating Action Button with Snack Bar
 > 2. FLoasting Action Button anchor with Recyler View and Behaviour
 > 3. Collapsing Toolbar with Floating Action Behaviour
