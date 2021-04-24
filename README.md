@@ -6,7 +6,7 @@ There are 4 ways in which we can use Co Ordinator Layout, And I used each way to
 > 3. Collapsing Toolbar with Floating Action Behaviour
 > 4. Collapsing Toolbar with Custom Behaviour  <--- final stage
 
-### This is how are final stage will look.
+### This is how final stage will look.
 <img src="Gif/Custom_behaviour.gif" width="150">
 Notice Floating action button (FAB) When Snack bar Appears and when it goes. Even FAB will disappear when we scroll down and reappear when we scroll up.
 
