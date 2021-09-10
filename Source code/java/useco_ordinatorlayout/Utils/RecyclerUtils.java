@@ -10,7 +10,7 @@ import java.util.ArrayList;
  * Utils to set our adapter and Layout manager for our Recycler View
  */
 public class RecyclerUtils {
-    // Private cause we don't want to make object ofd this class it acts as utils.
+    // Private cause we don't want to make object of this class it acts as utils.
     private RecyclerUtils(){}
 
     public static LinearLayoutManager getLinearLayoutManager(Context context) {
